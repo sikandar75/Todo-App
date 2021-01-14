@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    background: #000;
+    color: blanchedalmond;
+    background-image: url('Image/n6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mainBox{
+border: 1px solid black;
+width: 330px;
+height: 400px;
+background: #5D4037;
+
+}
+.mainApp{
+    background: #8D6E63;
+    margin: 7px 7px;
+    border: 1px solid black;
+    width: 310px; 
+    height: 380px;
+}
+.inputBox{
+/* 
+    border:1px solid black; */
+width: 290px;
+height: 40px;
+margin-top: 10px;
+margin-left: 10px;
+}
+.btns{
+    /* border: 1px solid red; */
+    width:200px;
+    height: 30px;
+    margin: 10px 60px;
+}
+.listArea{
+    width: 290px;
+    /* border: 1px solid black; */
+    height: 250px;
+    margin: 20px 10px;
+
+color: #000;    
+
+background: 
+#4E342E;}
+
+input{
+    width: 286px;
+    height: 34px;
+}
+.btn1{
+    background: green;
+    width: 98px;
+    height: 30px;
+
+}
+.btn2{
+background-color: red;
+    width: 98px;
+    height: 30px;
+}
+li{
+    width: 250px !important;
+    margin-top: 20px;
+   background-color: burlywood;
+
+    height: auto;
+}
+.len{
+    width: 60px;
+    height: 18px;
+    float:right;
+background: blue;
+    margin-left: 2px;
+   
+}
+.len1{
+    background: red;
+    width: 60px;
+    height: 18px;
+    float:right;
+    
+    margin-left: 2px;
+   
+}
